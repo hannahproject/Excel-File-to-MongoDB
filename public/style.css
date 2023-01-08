@@ -1,0 +1,22 @@
+h1.text-center {
+    color: #FFFFFF;
+    background-color: #0d6efd;
+    padding: 1em;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+small {
+    text-decoration: underline;
+}
+
+.update {
+    color: #0d6efd;
+}
+
+.delete {
+    color: red;
+}
